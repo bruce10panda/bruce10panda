@@ -26,3 +26,5 @@ I'm always open to collaboration and discussing new projects. If you'd like to w
 - 🐦 Twitter: [Your Twitter Profile](https://twitter.com/bruce10panda)
 
 Let's connect and create amazing things together! Thanks for stopping by my GitHub profile. 🚀
+
+(btw this is made by chatgpt bc im lazy :))
