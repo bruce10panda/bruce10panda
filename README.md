@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm bruce10panda!!
+# Hi there! 👋 I'm pjanda!!
 
 🎮 Game Developer | 💻 Web Enthusiast
 
