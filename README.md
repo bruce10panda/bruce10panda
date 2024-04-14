@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm passionate about creating immersive games with
 
 I'm always open to collaboration and discussing new projects. If you'd like to work together, have questions about my work, or just want to chat about game development or web design, feel free to reach out:
 
-- 📧 Email: [pjandastudios@gmail.com](mailto:pjandastudios@gmail.com)
+- 📧 Email: [pjandastudios@gmail.com](mailto:bruce@pjanda.nl)
 - 🐦 Twitter: [Your Twitter Profile](https://twitter.com/bruce10panda)
 
 Let's connect and create amazing things together! Thanks for stopping by my GitHub profile. 🚀
