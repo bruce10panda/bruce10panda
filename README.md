@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about creating immersive games with
 
 🚀 I'm a GDevelop enthusiast, and I love developing fun and engaging games. GDevelop is my go-to tool for creating 2D games that run on multiple platforms.
 
-📂 Check out some of my game projects right here on GitHub (https://bruce10panda.github.io/pjanda). Feel free to explore the code and play the games!
+📂 Check out some of my game projects right here on GitHub (https://pjanda.nl). Feel free to explore the code and play the games!
 
 
 ## Web Development 💻
